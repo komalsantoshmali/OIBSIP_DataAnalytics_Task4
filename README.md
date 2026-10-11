@@ -86,7 +86,7 @@ The following analyses were performed:
 
 ## Project Files
 
-* `Google_Play_Store_Analysis.ipynb.ipynb` — Jupyter Notebook containing the analysis.
+* `Google_Play_Store_Analysis.ipynb` — Jupyter Notebook containing the analysis.
 * `cleaned_googleplaystore.csv` — Cleaned dataset.
 * `googleplaystore.csv` — Original dataset.
 * `googleplaystore.csv.zip` — Original downloaded dataset archive.
